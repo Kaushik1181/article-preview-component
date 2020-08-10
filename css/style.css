@@ -21,6 +21,23 @@ body {
   border-radius: 50%;
 }
 
+/* popover social-icons */
+
+  .popover-body {
+    padding: .5rem .75rem;
+    background-color: #343a40;
+  }
+
+  .social-icons {
+    display: inline-block;
+    padding: 10px;
+  }
+
+  .icons {
+    display: inline-block;
+    margin: 0 5px;
+  }
+
 .attribution {
   font-size: 11px;
   text-align: center;
