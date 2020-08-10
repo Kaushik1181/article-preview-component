@@ -3,6 +3,6 @@ $(document).ready(function(){
     trigger: 'focus',
     placement : 'top',
 	  html : true,
-    content : '<div class="social-icons bg-dark text-white rounded"><h4 class="icons">SHARE</h4><i class="fab fa-twitter fa-2x icons"></i><i class="fab fa-facebook fa-2x icons"></i><i class="fab fa-pinterest fa-2x icons"></i></div>',
+    content : '<div class="social-icons bg-dark text-white rounded"><h5 class="icons">SHARE</h5><i class="fab fa-twitter icons"></i><i class="fab fa-facebook icons"></i><i class="fab fa-pinterest icons"></i></div>',
     });
 });

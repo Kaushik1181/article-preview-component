@@ -2,6 +2,9 @@ body {
   background-color: #cffffe;
 }
 
+.content {
+  padding: 0 0 0;
+}
 /* cards */
 .drawer-image {
   height: 100%;
@@ -24,13 +27,12 @@ body {
 /* popover social-icons */
 
   .popover-body {
-    padding: .5rem .75rem;
     background-color: #343a40;
   }
 
   .social-icons {
     display: inline-block;
-    padding: 10px;
+    padding: 5px;
   }
 
   .icons {
@@ -38,6 +40,7 @@ body {
     margin: 0 5px;
   }
 
+/* attribution */
 .attribution {
   font-size: 11px;
   text-align: center;
